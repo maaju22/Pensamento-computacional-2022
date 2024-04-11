@@ -1,2 +1,2 @@
-# Pensamento-computacional-2022
-Atividade dosite
+# Pensamento-computacional-2024
+Atividade do site
